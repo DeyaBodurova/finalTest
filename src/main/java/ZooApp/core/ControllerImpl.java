@@ -1,13 +1,17 @@
 package ZooApp.core;
 
-
-import ZooApp.entities.animals.Animal;
 import ZooApp.entities.animals.AquaticAnimal;
+import ZooApp.entities.animals.Animal;
 import ZooApp.entities.animals.TerrestrialAnimal;
+import ZooApp.entities.areas.Area;
 import ZooApp.entities.areas.LandArea;
 import ZooApp.entities.areas.WaterArea;
+import ZooApp.entities.foods.Food;
+import ZooApp.entities.foods.Meat;
+import ZooApp.entities.foods.Vegetable;
+import ZooApp.repositories.FoodRepository;
+import ZooApp.repositories.FoodRepositoryImpl;
 
-import java.awt.geom.Area;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.stream.Collectors;

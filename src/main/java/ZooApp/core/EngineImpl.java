@@ -2,7 +2,7 @@ package ZooApp.core;
 
 
 import zoo.common.Command;
-import zoo.entities.areas.Area;
+import ZooApp.entities.areas.Area;
 
 import java.io.BufferedReader;
 import java.io.IOException;

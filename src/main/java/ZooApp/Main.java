@@ -1,7 +1,7 @@
-package zoo;
+package ZooApp;
 
-import zoo.core.Engine;
-import zoo.core.EngineImpl;
+import ZooApp.core.Engine;
+import ZooApp.core.EngineImpl;
 
 public class Main {
 

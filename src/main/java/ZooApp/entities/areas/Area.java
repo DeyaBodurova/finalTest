@@ -1,6 +1,7 @@
 package ZooApp.entities.areas;
 
 import ZooApp.entities.animals.Animal;
+import ZooApp.entities.foods.Food;
 
 import java.util.Collection;
 
